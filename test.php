@@ -1,3 +1,3 @@
 <?php
 
-$x = 'hello world';
+echo = 'it work successfully!';

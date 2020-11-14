@@ -1,3 +1,3 @@
 <?php
 
-echo = 'data updated successfully!';
+echo 'data updated successfully!';
